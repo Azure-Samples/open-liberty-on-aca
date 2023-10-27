@@ -1,6 +1,6 @@
 # DisableDockerDetector "liberty-maven-plugin does not support docker buildx-build. See https://github.com/OpenLiberty/ci.maven/issues/1589"
 # open liberty base image
-FROM icr.io/appcafe/open-liberty:23.0.0.3-kernel-slim-java17-openj9-ubi
+FROM icr.io/appcafe/open-liberty:kernel-slim-java17-openj9-ubi
 
 # Add config
 COPY --chown=1001:0 target/liberty/wlp/usr/servers/defaultServer/server.xml /config/server.xml
