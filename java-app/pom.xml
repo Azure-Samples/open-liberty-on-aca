@@ -66,7 +66,7 @@
               <goal>deploy</goal>
             </goals>
             <configuration>
-              <libertyRuntimeVersion>23.0.0.10</libertyRuntimeVersion>
+              <libertyRuntimeVersion>[23.0.0.10,)</libertyRuntimeVersion>
               <outputDirectory>${project.build.directory}/wlp-package</outputDirectory>
             </configuration>
           </execution>
