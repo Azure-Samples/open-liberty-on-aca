@@ -14,4 +14,4 @@ Below table shows the list of samples available in this repository.
 
 | Sample                           | Description                                | Guide                            |
 |----------------------------------|--------------------------------------------|----------------------------------|
-| [`java-app`](java-app) | Deploy a simple Java application with Open Liberty/WebSphere Liberty on Azure Container Apps. | TODO |
+| [`java-app`](java-app) | Deploy a simple Java application with Open Liberty/WebSphere Liberty on Azure Container Apps. | [Deploy a Java application with Open Liberty or WebSphere Liberty on Azure Container Apps](https://learn.microsoft.com/azure/developer/java/ee/deploy-java-liberty-app-aca) |
