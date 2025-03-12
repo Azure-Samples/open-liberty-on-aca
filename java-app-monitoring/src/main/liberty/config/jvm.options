@@ -1,0 +1,3 @@
+# https://openliberty.io/docs/latest/telemetry-trace.html#agent
+
+-javaagent:/liberty/usr/shared/resources/applicationinsights-agent.jar
